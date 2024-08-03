@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Arkadii Yakovets](mailto:arkadii.yakovets@owasp.org)
+* [Starr Brown](mailto:arkadii.yakovets@owasp.org)
