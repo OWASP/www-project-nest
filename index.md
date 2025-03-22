@@ -9,8 +9,6 @@ pitch: Your gateway to OWASP. Discover, engage, and help shape the future!
 
 ---
 
-## Overview
-
 OWASP Nest provides a centralized platform to explore and contribute to OWASP projects and community activities:
 
 - **[nest.owasp.org](https://nest.owasp.org) main page and [Slack NestBot](https://owasp.slack.com/archives/D07MJFC2HM2)**:
@@ -48,7 +46,7 @@ OWASP Nest is led by a dedicated team committed to fostering collaboration and s
 - **Kate Golovanova** -- CC
 - **Starr Brown** -- CISSP
 
-All OWASP Nest leaders are ISC2-certified professionals and adhere to the OWASP Code of Conduct. For discussions, visit the [`#project-nest`](https://owasp.slack.com/archives/C07JLLG2GFQ) channel on [OWASP Slack](https://owasp.org/slack/invite).
+All OWASP Nest leaders are ISC2-certified professionals and adhere to the OWASP Code of Conduct. For discussions, visit the [#project-nest](https://owasp.slack.com/archives/C07JLLG2GFQ) channel on [OWASP Slack](https://owasp.org/slack/invite).
 
 ## Contributing
 
