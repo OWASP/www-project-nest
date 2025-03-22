@@ -1,8 +1,10 @@
 ### OWASP Nest
 
-* [OWASP Project Directory](https://nest.owasp.dev/projects/)
-* [Contribute to OWASP Projects](https://nest.owasp.dev/projects/contribute/)
+* [Chapter Directory](https://nest.owasp.org/chapters)
+* [Community Contributors](https://nest.owasp.org/community/users)
+* [Contribution Hub](https://nest.owasp.org/projects/contribute)
+* [Project Directory](https://nest.owasp.org/projects)
 
 ### Code Repository
 
-* [GitHub repository](https://github.com/owasp/nest)
+* [GitHub Repository](https://github.com/owasp/nest)

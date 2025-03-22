@@ -1,2 +1,5 @@
-# Reporting Issues
-Contact the project leaders listed on the project webpage to report security issues
+# Security Policy
+
+## Reporting a Vulnerability
+
+Please use this [form](https://github.com/OWASP/Nest/security/advisories/new) to report a security vulnerability.
