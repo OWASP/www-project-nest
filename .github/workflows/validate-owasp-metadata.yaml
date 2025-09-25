@@ -1,10 +1,9 @@
-name: Validate OWASP Metadata
+name: Validate OWASP entity metadata
 
 on:
   pull_request:
     paths:
       - '*.owasp.yaml'
-
   push:
     paths:
       - '*.owasp.yaml'
@@ -21,7 +20,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Validate OWASP metadata file
+      - name: Validate metadata file
         # We want to use the latest version of the action which lives in the
         # `owasp/nest-schema` repository subdirectory and doesn't have a separate release process.
         # This approach simplifies the workflow support however
