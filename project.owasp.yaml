@@ -1,0 +1,33 @@
+audience:
+  - builder
+leaders:
+  - name: Arkadii Yakovets
+    email: arkadii.yakovets@owasp.org
+    github: arkid15r
+  - name: Kate Golovanova
+    email: kateryna.golovanova@owasp.org
+    github: kasya
+  - name: Starr Brown
+    email: starr.brown@owasp.org
+    github: mamicidal
+level: 2
+license:
+  - MIT
+name: OWASP Nest
+pitch: Your gateway to OWASP. Discover, engage, and help shape the future!
+repositories:
+  - name: Nest
+    url: https://github.com/OWASP/Nest
+    description: Your gateway to OWASP. Discover, engage, and help shape the future!
+  - name: www-project-nest
+    url: https://github.com/OWASP/www-project-nest
+    description: OWASP Nest
+tags:
+  - community
+  - chapters
+  - contributions
+  - nestbot
+  - projects
+  - snapshots
+type: code
+website: https://owasp.org/www-project-nest
