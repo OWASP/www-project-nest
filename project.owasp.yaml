@@ -1,5 +1,10 @@
 audience:
   - builder
+community:
+  - name: project-nest
+    platform: slack
+    url: https://owasp.slack.com/archives/C07JLLG2GFQ
+    description: Your gateway to OWASP. Discover, engage, and help shape the future!
 leaders:
   - name: Arkadii Yakovets
     email: arkadii.yakovets@owasp.org
