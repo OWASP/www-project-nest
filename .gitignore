@@ -1,4 +1,6 @@
+_site/
+.cursor/rules/snyk_rules.mdc
+.github/instructions/snyk_rules.instructions.md
+/favicon.ico
 /Gemfile
 /Gemfile.lock
-/favicon.ico
-_site/
