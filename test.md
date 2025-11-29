@@ -1,1 +1,1 @@
-Open Web Application Security Project
+Open Worldwide Application Security Project
