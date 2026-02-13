@@ -2,8 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Nest
-tags: community, chapters, contributions, nestbot, projects, snapshots
-level: 3
+tags: community, chapters, contributions, nest-bot, projects, snapshots
+level: 3.5
 type: code
 pitch: Your gateway to OWASP. Discover, engage, and help shape the future! 
 
